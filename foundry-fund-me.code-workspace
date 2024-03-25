@@ -1,9 +1,0 @@
-{
-	"folders": [
-		{
-			"uri": "vscode-remote://wsl+ubuntu/root/solidity-course/foundry-f23/foundry-simple-storage-f23/foundry-fund-me-f23/foundry-simple-storage/foundry-fund-me"
-		}
-	],
-	"remoteAuthority": "wsl+ubuntu",
-	"settings": {}
-}
